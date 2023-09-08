@@ -1,4 +1,4 @@
-# Gxut-School-Web-One-step-Login
+# 广西科技大学校园网登录程序
 用户配置.txt的填写方法：
 第一行填校园网账号
 第二行填密码
