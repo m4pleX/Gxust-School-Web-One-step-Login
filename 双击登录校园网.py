@@ -1,6 +1,5 @@
 # _*_ coding : utf-8 _*_
-# @File : AutoLogin
-#%40telecom,%40cmcc,%40unicom,
+
 
 import requests    # 用于向目标网站发送请求
 import os
