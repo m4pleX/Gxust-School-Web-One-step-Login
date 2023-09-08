@@ -1,6 +1,5 @@
 # _*_ coding : utf-8 _*_
 # @Time : 2023/9/7 11：33
-# @Author : 枫 QQ1605128429 group794409253
 # @File : AutoLogin
 # @Project : SchoolWebAutoLogin
 #%40telecom,%40cmcc,%40unicom,
