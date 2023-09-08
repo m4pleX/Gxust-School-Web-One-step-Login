@@ -1,5 +1,4 @@
 # _*_ coding : utf-8 _*_
-# @Time : 2023/9/7 11：33
 # @File : AutoLogin
 # @Project : SchoolWebAutoLogin
 #%40telecom,%40cmcc,%40unicom,
