@@ -3,10 +3,10 @@
 如果不会用python，release里有包装好的可执行文件，解压就能用
 
 # config.txt的填写方法：
-username填校园网账号<br />
-password填密码<br />
-operator填运营商（移动or联通or电信or留空），留空为登录免费校园网
-
+username:填校园网账号<br />
+password:填密码<br />
+operator:填运营商（移动or联通or电信or留空），留空为登录免费校园网
+注意：config.txt需要跟本体文件在同一个目录下
 # 例如:
 username:123456789012<br />
 password:123456<br />
