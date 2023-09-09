@@ -5,7 +5,7 @@
 # 用户配置.txt的填写方法：
 username填校园网账号<br />
 password填密码<br />
-operator填运营商
+operator填运营商（移动or联通or电信or留空），留空为登录免费校园网
 
 # 例如:
 username:123456789012<br />
