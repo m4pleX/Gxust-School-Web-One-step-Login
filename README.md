@@ -3,14 +3,14 @@
 如果不会用python，release里有包装好的可执行文件，解压就能用
 
 # 用户配置.txt的填写方法：
-第一行填校园网账号<br />
-第二行填密码<br />
-第三行填运营商（%40telecom或%40cmcc或%40unicom或空着），空着则为免费校园网<br />
+username填校园网账号<br />
+password填密码<br />
+operator填运营商
 
 # 例如:
-username:202100315001<br />
+username:123456789012<br />
 password:123456<br />
-operator:%40telecom<br />
+operator:移动
 
 
 
