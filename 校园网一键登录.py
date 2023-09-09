@@ -2,7 +2,7 @@
 import requests    # 用于向目标网站发送请求
 import os
 
-f = open("./登录配置.txt", "r")
+f = open("./config.txt", "r")
 user=f.readline()
 password=f.readline()
 op=f.readline()
