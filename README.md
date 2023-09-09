@@ -2,7 +2,7 @@
 由于校园网太拉胯，经常需要重新登录，所以写了这个小玩意。<br />
 如果不会用python，release里有包装好的可执行文件，解压就能用
 
-# 用户配置.txt的填写方法：
+# config.txt的填写方法：
 username填校园网账号<br />
 password填密码<br />
 operator填运营商（移动or联通or电信or留空），留空为登录免费校园网
