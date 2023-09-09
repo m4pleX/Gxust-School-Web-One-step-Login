@@ -8,7 +8,10 @@
 第三行填运营商（%40telecom或%40cmcc或%40unicom或空着），空着则为免费校园网<br />
 
 # 例如:
-202100315001<br />
-123456<br />
-%40telecom<br />
+username:202100315001<br />
+password:123456<br />
+operator:%40telecom<br />
+
+
+
 
