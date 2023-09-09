@@ -5,7 +5,7 @@
 ## config.txt的填写方法：
 username:填校园网账号<br />
 password:填密码<br />
-operator:填运营商（移动or联通or电信or留空），留空为登录免费校园网
+operator:填运营商（移动or联通or电信or留空），留空为登录免费校园网<br />
 注意：config.txt需要跟本体文件在同一个目录下
 ## 例如:
 username:123456789012<br />
