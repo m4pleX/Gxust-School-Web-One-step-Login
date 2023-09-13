@@ -1,6 +1,6 @@
 # 广西科技大学一键登录校园网
 由于校园网太拉胯，经常需要重新登录，所以写了这个小玩意。<br />
-如果不会用python，release里有包装好的可执行文件，解压就能用
+如果你不会用python，**release里有包装好的windows可执行文件，解压后填好config.json就能用**
 
 ## config.json的配置示例
 
