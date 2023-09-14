@@ -12,6 +12,6 @@
 }
 ```  
 
-operator填你的运营商，[移动](http://www.10086.com/)填cmcc，[联通](http://www.10010.com/)填unicom。[电信](http://www.10010.com/)填telecom  
+operator填你的运营商:[移动](http://www.10086.com/)填cmcc,[联通](http://www.10010.com/)填unicom,[电信](http://www.10010.com/)填telecom  
 
 
